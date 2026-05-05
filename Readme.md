@@ -20,7 +20,8 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 
 This project demonstrates collaborative GitHub workflow using pull requests.
 
-This is Main branch change for experiment.
+This is FEATURE branch conflicting change.
+
 
 
 
